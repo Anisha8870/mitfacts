@@ -1,6 +1,6 @@
 var mit = {
-    city: 'KOVAI',
-    colors: ['pink', 'red'],
+    city: 'Chennai',
+    colors: ['green', 'red'],
     mascot: "robot",
     founded: 1900,
     motto: 'Carpe diem',
